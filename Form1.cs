@@ -11,10 +11,9 @@ using System.Windows.Forms;
 
 namespace ProyectoSimulacion
 {
-    //Integrantes:
+    
     //Dylan Valdez Garcia 
-    //Felipe de Jesus Salas Lopez
-    //Brayan Jesus Arias Chavez
+  
 
     public partial class Form1 : Form
     {
